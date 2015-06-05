@@ -11,3 +11,5 @@ The dataset was obtained from:
 > Lawson S, Meghreblian B, Brook M (2014) Journal subscription costs - FOIs to UK universities. _fig**share**_. [doi:10.6084/m9.figshare.1250073](https://dx.doi.org/10.6084/m9.figshare.1250073)
 
 The `parse.ipynb` [notebook](http://nbviewer.ipython.org/github/dhimmel/subscriptions/blob/master/parse.ipynb) retrieves the dataset and converts the excel file into a tidy tsv.
+
+The `visualize.ipynb` [notebook](http://nbviewer.ipython.org/github/dhimmel/subscriptions/blob/master/visualize.ipynb) visualizes and comments on subscription costs over time.
